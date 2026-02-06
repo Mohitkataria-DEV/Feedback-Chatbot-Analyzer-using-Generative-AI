@@ -1,0 +1,33 @@
+rating,sentiment,feedback,follow_up,suggestions
+2,neutral,Everything,Changes to it,Change the software completely
+4,neutral,Quality of picture.,3d Goggles,Nothing
+1,negative,poor quality.,Quality and features
+4,positive,Easy to use and reliable,Keep doing the same,None
+5,positive,Amazing product quality,Keep doing the same,None
+4,positive,Excellent service and fast response,Keep doing the same,None
+4,positive,Great support and quick resolution,Keep doing the same,None
+5,positive,Easy to use and reliable,Keep doing the same,None
+4,positive,Easy to use and reliable,Keep doing the same,None
+5,positive,Very satisfied with the service,Keep doing the same,None
+5,positive,Customer service was outstanding,Keep doing the same,None
+1,negative,Quality did not meet expectations,Needs improvement,Improve service quality
+1,negative,Not satisfied with the service,Needs improvement,Improve service quality
+1,negative,Support team was unresponsive,Needs improvement,Improve service quality
+1,negative,Support team was unresponsive,Needs improvement,Improve service quality
+1,negative,Quality did not meet expectations,Needs improvement,Improve service quality
+1,negative,Delay in response time,Needs improvement,Improve service quality
+1,negative,Poor quality and bad experience,Needs improvement,Improve service quality
+1,negative,Poor quality and bad experience,Needs improvement,Improve service quality
+3,neutral,It was okay overall,Average experience,Minor improvements needed
+3,neutral,Decent but could be better,Average experience,Minor improvements needed
+3,neutral,Neither good nor bad,Average experience,Minor improvements needed
+3,neutral,Nothing special but fine,Average experience,Minor improvements needed
+3,neutral,It was okay overall,Average experience,Minor improvements needed
+3,neutral,Neutral experience overall,Average experience,Minor improvements needed
+3,neutral,Average experience,Average experience,Minor improvements needed
+3,neutral,Neither good nor bad,Average experience,Minor improvements needed
+5,positive,Excellent service and very fast response,Keep up the great work,None
+4,positive,Good quality product and friendly support,Support team was helpful,Add more features
+2,negative,The service was slow and support was unresponsive,Response time needs improvement,Improve customer support speed
+1,negative,Very poor quality and disappointing experience,Product did not meet expectations,Improve quality control
+3,neutral,The experience was okay but nothing special,Average overall experience,Enhance user experience
